@@ -1,0 +1,8 @@
+Model Information:
+* title:	Gltf
+* source:	https://sketchfab.com/3d-models/gltf-3df5f8dc2f4f42cb8b6a43993a22112f
+* author:	jonathantiritilli (https://sketchfab.com/jonathantiritilli)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
